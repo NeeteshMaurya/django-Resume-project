@@ -1,0 +1,22 @@
+
+.st-font {
+    font-family: 'Satisfy', cursive;
+}
+
+html,
+body {
+    height: 100%;
+}
+.container-fluid {
+    min-height: 100%;
+}
+
+/* Service Icon Color*/
+.i-color{
+    color: chartreuse;
+}
+
+/* Service Icon Color*/
+.ss-color{
+    color: silver;
+}
